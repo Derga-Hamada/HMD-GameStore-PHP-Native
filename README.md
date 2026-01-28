@@ -26,7 +26,7 @@ The goal was to build a dynamic Game Store platform using **Native PHP** (withou
 1.  Clone this repository.
 2.  Import `database.sql` into your MySQL server (via phpMyAdmin).
 3.  Configure `db.php` with your database credentials.
-4.  Run the project on a local server (e.g., `localhost/games`).
+4.  Run the project on a local server (e.g., `localhost/games_WebSit`).
 ---
 **Developed by:** Hamada  
 *Batna 2 University 
