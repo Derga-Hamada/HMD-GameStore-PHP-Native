@@ -16,6 +16,18 @@ The goal was to build a dynamic Game Store platform using **Native PHP** (withou
 * **Search & Filter:** Real-time search functionality and category filtering using JavaScript.
 * **Responsive Design:** Modern UI with CSS animations and glassmorphism effects.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="1.jpg" alt="Home Page" width="800">
+</p>
+
+<p align="center">
+  <img src="2.jpg" alt="Login Page" width="45%">
+  &nbsp; &nbsp;
+  <img src="3.jpg" alt="Game Details" width="45%">
+</p>
+
 ## 🛠️ Tech Stack
 * **Backend:** PHP (Native)
 * **Database:** MySQL
@@ -27,6 +39,7 @@ The goal was to build a dynamic Game Store platform using **Native PHP** (withou
 2.  Import `database.sql` into your MySQL server (via phpMyAdmin).
 3.  Configure `db.php` with your database credentials.
 4.  Run the project on a local server (e.g., `localhost/games_WebSit`).
+
 ---
 **Developed by:** Hamada  
-*Batna 2 University 
+*Batna 2 University
