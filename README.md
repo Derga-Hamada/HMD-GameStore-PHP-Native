@@ -19,13 +19,13 @@ The goal was to build a dynamic Game Store platform using **Native PHP** (withou
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="1.jpg" alt="Home Page" width="800">
+  <img src="1.png" alt="Home Page" width="800">
 </p>
 
 <p align="center">
-  <img src="2.jpg" alt="Login Page" width="45%">
+  <img src="2.png" alt="Login Page" width="45%">
   &nbsp; &nbsp;
-  <img src="3.jpg" alt="Game Details" width="45%">
+  <img src="3.png" alt="Game Details" width="45%">
 </p>
 
 ## 🛠️ Tech Stack
